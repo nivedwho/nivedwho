@@ -1,4 +1,8 @@
-### Hi there 👋
+### 📫 How to reach me: 
+[![Email](https://img.icons8.com/ios-filled/50/000000/email-open.png)](mailto:panived16@gmail.com)
+[![Website](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://nivedwho.github.io/)
+[![Blog](https://img.icons8.com/ios-filled/50/000000/blog.png)](https://nivedwho.github.io/blog)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/nivedpa/)
 
 <!--
 **nivedwho/nivedwho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
